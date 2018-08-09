@@ -1,3 +1,3 @@
 #!/bin/bash
 echo asd
-ping 10.133.151.1
+ping 172.25.199.141
